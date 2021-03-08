@@ -1,0 +1,28 @@
+#one img {
+    display: block;
+    float: left;
+    margin: 10px;
+    margin-right: 100px;
+}
+
+#one p {
+    position: relative;
+    float: right;
+    width: 500px;
+    left: -100px;
+}
+div {
+    display: inline-block;
+    border: solid;
+}
+
+#two img {
+    float: right;
+    border: solid;
+    margin-left: 20px;
+}
+#two p {
+    float: left;
+    border: solid;
+    width: 800px;
+}
