@@ -1,0 +1,43 @@
+body {
+    width: 90%;
+    margin: 0 auto;
+text-align: center;
+min-width: 100%;}
+   #content {overflow: auto;}
+   #nav, #feature, #footer {
+    margin: 1%;}
+   .column1, .column2, .column3 {
+    width: 31.3%;
+    float: left;
+    margin: 1%;}
+   .column3 {margin-right: 0%;}
+   li {
+    display: inline;
+    padding: 0.5em;}
+   #nav, #footer {
+       border: solid;
+    background-color: #efefef;
+    padding: 0.5em 0;}
+   #feature, .article {
+    height: 10em;
+    margin-bottom: 1em;
+    background-color: #efefef;}
+
+    #imgcontainer {
+        border: solid;
+        margin: 1%;
+        float: left;
+        width: 15%;
+    }
+
+    #text {
+        float: right;
+        max-width: 150%;
+    }
+
+    #footer {
+        clear: left;
+    }
+    #textimg {
+        max-width: 170%;
+    }

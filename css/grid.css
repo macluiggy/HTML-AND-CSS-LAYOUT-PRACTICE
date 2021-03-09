@@ -1,0 +1,44 @@
+body {
+    width: 960px;
+    margin: 0 auto;
+}
+
+div {
+    height: 200px;
+    border: solid 1px;
+    float: left;
+}
+
+#col1one {
+    width: 300px;
+    background-color: tomato;
+}
+
+#col1two{
+    width: 620px;
+    background-color: violet;
+}
+#col2one {
+    width: 220px;
+    background-color: yellow;
+}
+
+#col2two{
+    width: 700px;
+    background-color: yellowgreen;
+}
+
+#col3one {
+    width: 220px;
+    background-color: turquoise;
+}
+
+#col3two{
+    width: 477px;
+    background-color: wheat;
+}
+
+#col3three {
+    width: 220px;
+    background-color: rgb(192, 101, 27);
+}
