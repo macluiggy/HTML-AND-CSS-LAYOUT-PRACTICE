@@ -1,0 +1,10 @@
+div {
+    float: left;
+    margin: 10px;
+    border: solid 1px;
+    width: 400px;
+}
+
+div h3, p {
+    padding: 15px;
+}

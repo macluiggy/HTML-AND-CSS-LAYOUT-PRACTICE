@@ -1,0 +1,16 @@
+div {
+    float: left;
+    margin: 20px;
+}
+
+#col1 {
+    width: 900px;
+}
+
+#col1 h1 {
+    text-transform: capitalize;
+}
+
+#col2 {
+    width: 364.01560974121090907px;
+}
