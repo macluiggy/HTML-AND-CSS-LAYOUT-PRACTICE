@@ -2,3 +2,5 @@
 /ignorar2.xd
 ignorar/**
 *.r
+*.txt
+!pi_million_digits.txt
