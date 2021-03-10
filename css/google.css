@@ -1,0 +1,33 @@
+nav {
+    border: solid;
+    height: fit-content;
+    background-color: blanchedalmond;
+}
+li {
+    display: inline;
+    float: right;
+    margin: 15px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
+nav div {
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: rgb(14, 141, 141);
+    position: relative;
+    bottom: 20px;
+}
+nav img {
+    width: 20px;
+}
+nav p {
+    text-align: center;
+    color: white;
+    padding-top: 7px;
+}
